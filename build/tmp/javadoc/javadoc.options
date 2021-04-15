@@ -1,0 +1,9 @@
+-classpath '/home/mdre/Proyectos/jdkcolorlogger/build/classes/java/main:/home/mdre/Proyectos/jdkcolorlogger/build/resources/main:/home/mdre/.gradle/caches/modules-2/files-2.1/org.fusesource.jansi/jansi/2.3.2/d69739881572b2b610f9846e4d6f0cd7edbfa12d/jansi-2.3.2.jar'
+-d '/home/mdre/Proyectos/jdkcolorlogger/build/docs/javadoc'
+-doctitle 'JDKColorLogger 0.9.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'JDKColorLogger 0.9.0 API'
+'/home/mdre/Proyectos/jdkcolorlogger/src/main/java/com/mdre/jdkcolorlogger/JAnsiColorConsoleHandler.java'
+'/home/mdre/Proyectos/jdkcolorlogger/src/main/java/com/mdre/jdkcolorlogger/BaseColorConsoleHandler.java'
+'/home/mdre/Proyectos/jdkcolorlogger/src/main/java/com/mdre/jdkcolorlogger/AnsiColorConsoleHandler.java'

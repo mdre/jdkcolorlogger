@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.mdre.jdkcolorlogger","l":"AnsiColorConsoleHandler"},{"p":"com.mdre.jdkcolorlogger","l":"JAnsiColorConsoleHandler"}]
