@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ColorJdkTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-15T14:28:18" hostname="FarstarIV" time="0.049">
+<testsuite name="ColorJdkTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-15T14:33:04" hostname="FarstarIV" time="0.056">
   <properties/>
-  <testcase name="colorLoggingJdkTest" classname="ColorJdkTest" time="0.049"/>
+  <testcase name="colorLoggingJdkTest" classname="ColorJdkTest" time="0.056"/>
   <system-out><![CDATA[===============================
 ====== Color logger - jdk =====
 ===============================
 
 ]]></system-out>
-  <system-err><![CDATA[?[91mGRAVE[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: severe
-?[0m?[93mADVERTENCIA[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: warning
-?[0m?[32mINFORMACIÓN[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: info
-?[0m?[94mCONFIGURAR[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: config
-?[0m?[36mDETALLADO[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: fine
-?[0m?[35mMUY DETALLADO[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: finer
-?[0m?[90mMÁS DETALLADO[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: finest
-?[0m?[93mADVERTENCIA[2021/04/15 11:28:18]:ColorJdkTest colorLoggingJdkTest :: warning with exception
+  <system-err><![CDATA[?[91mGRAVE[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: severe
+?[0m?[93mADVERTENCIA[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: warning
+?[0m?[32mINFORMACIÓN[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: info
+?[0m?[94mCONFIGURAR[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: config
+?[0m?[36mDETALLADO[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: fine
+?[0m?[35mMUY DETALLADO[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: finer
+?[0m?[90mMÁS DETALLADO[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: finest
+?[0m?[93mADVERTENCIA[2021/04/15 11:33:04]:ColorJdkTest colorLoggingJdkTest :: warning with exception
 java.lang.NullPointerException: Just testing
 	at ColorJdkTest.colorLoggingJdkTest(ColorJdkTest.java:32)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
